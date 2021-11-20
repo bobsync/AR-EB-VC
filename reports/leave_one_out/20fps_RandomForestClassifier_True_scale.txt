@@ -1,0 +1,8 @@
+Testing [05]: micro: 0.682 macro: 0.671
+Testing [07]: micro: 0.761 macro: 0.663
+Testing [13]: micro: 0.773 macro: 0.782
+Testing [16]: micro: 0.490 macro: 0.408
+Testing [18]: micro: 0.919 macro: 0.885
+Testing [20]: micro: 0.677 macro: 0.546
+
+Mean:         micro: 0.717 macro: 0.659
